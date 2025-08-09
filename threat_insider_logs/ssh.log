@@ -1,0 +1,23 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	ssh
+#open	2025-08-08-18-14-02
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	version	auth_success	auth_attempts	direction	client	server	cipher_alg	mac_alg	compression_alg	kex_alg	host_key_alg	host_key
+#types	time	string	addr	port	addr	port	count	bool	count	enum	string	string	string	string	string	string	string	string
+1754657759.305051	CDXk4Y1WdjrNaEno8e	192.168.100.143	56472	192.168.100.119	22	2	T	1	-	SSH-2.0-libssh_0.11.2	SSH-2.0-OpenSSH_for_Windows_9.5	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	27:89:0b:85:6c:43:85:f1:7b:71:06:38:74:18:0a:74
+1754657758.779585	CGGzQG4vee05shoI5	192.168.100.143	56404	192.168.100.119	22	2	-	0	-	SSH-2.0-libssh_0.11.2	SSH-2.0-OpenSSH_for_Windows_9.5	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	27:89:0b:85:6c:43:85:f1:7b:71:06:38:74:18:0a:74
+1754657759.292469	CFaStZdKT3D6hjvn4	192.168.100.143	56422	192.168.100.119	22	2	F	1	-	SSH-2.0-libssh_0.11.2	SSH-2.0-OpenSSH_for_Windows_9.5	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	27:89:0b:85:6c:43:85:f1:7b:71:06:38:74:18:0a:74
+1754657759.291529	Ck1XP5as4EBJ23qTa	192.168.100.143	56412	192.168.100.119	22	2	F	1	-	SSH-2.0-libssh_0.11.2	SSH-2.0-OpenSSH_for_Windows_9.5	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	27:89:0b:85:6c:43:85:f1:7b:71:06:38:74:18:0a:74
+1754657759.294475	Cxi7vX2lsZBaYZOtl8	192.168.100.143	56458	192.168.100.119	22	2	F	1	-	SSH-2.0-libssh_0.11.2	SSH-2.0-OpenSSH_for_Windows_9.5	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	27:89:0b:85:6c:43:85:f1:7b:71:06:38:74:18:0a:74
+1754657759.295597	CkOZOd4maAq0hdHMP7	192.168.100.143	56440	192.168.100.119	22	2	F	1	-	SSH-2.0-libssh_0.11.2	SSH-2.0-OpenSSH_for_Windows_9.5	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	27:89:0b:85:6c:43:85:f1:7b:71:06:38:74:18:0a:74
+1754657759.302648	Cei7hI5yjWIGlvlBa	192.168.100.143	56498	192.168.100.119	22	2	F	1	-	SSH-2.0-libssh_0.11.2	SSH-2.0-OpenSSH_for_Windows_9.5	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	27:89:0b:85:6c:43:85:f1:7b:71:06:38:74:18:0a:74
+1754657759.305223	CjACnLS0SdyxfSsCd	192.168.100.143	56516	192.168.100.119	22	2	F	1	-	SSH-2.0-libssh_0.11.2	SSH-2.0-OpenSSH_for_Windows_9.5	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	27:89:0b:85:6c:43:85:f1:7b:71:06:38:74:18:0a:74
+1754657759.291535	CvALia1pkcUnsuY7u3	192.168.100.143	56436	192.168.100.119	22	2	F	1	-	SSH-2.0-libssh_0.11.2	SSH-2.0-OpenSSH_for_Windows_9.5	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	27:89:0b:85:6c:43:85:f1:7b:71:06:38:74:18:0a:74
+1754657759.293452	CkZULf49T08bwVwxha	192.168.100.143	56456	192.168.100.119	22	2	F	1	-	SSH-2.0-libssh_0.11.2	SSH-2.0-OpenSSH_for_Windows_9.5	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	27:89:0b:85:6c:43:85:f1:7b:71:06:38:74:18:0a:74
+1754657759.297580	Cu7deU2YewTYf0ZVCc	192.168.100.143	56438	192.168.100.119	22	2	F	1	-	SSH-2.0-libssh_0.11.2	SSH-2.0-OpenSSH_for_Windows_9.5	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	27:89:0b:85:6c:43:85:f1:7b:71:06:38:74:18:0a:74
+1754657759.301865	CmChy32I2Res49Hywj	192.168.100.143	56486	192.168.100.119	22	2	F	1	-	SSH-2.0-libssh_0.11.2	SSH-2.0-OpenSSH_for_Windows_9.5	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	27:89:0b:85:6c:43:85:f1:7b:71:06:38:74:18:0a:74
+1754657759.302221	Cn9Zvw4snidx4mm2Zj	192.168.100.143	56512	192.168.100.119	22	2	F	1	-	SSH-2.0-libssh_0.11.2	SSH-2.0-OpenSSH_for_Windows_9.5	chacha20-poly1305@openssh.com	hmac-sha2-256-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	27:89:0b:85:6c:43:85:f1:7b:71:06:38:74:18:0a:74
+1754657768.280087	CwFUCc4zyXEG0uZSE5	192.168.100.143	33916	192.168.100.119	22	2	T	2	-	SSH-2.0-OpenSSH_10.0p2 Debian-7	SSH-2.0-OpenSSH_for_Windows_9.5	chacha20-poly1305@openssh.com	umac-64-etm@openssh.com	none	curve25519-sha256	ssh-ed25519	27:89:0b:85:6c:43:85:f1:7b:71:06:38:74:18:0a:74
+#close	2025-08-08-18-14-02

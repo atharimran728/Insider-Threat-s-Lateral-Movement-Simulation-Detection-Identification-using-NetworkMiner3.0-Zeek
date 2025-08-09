@@ -1,0 +1,11 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	dce_rpc
+#open	2025-08-08-18-14-02
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	rtt	named_pipe	endpoint	operation
+#types	time	string	addr	port	addr	port	interval	string	string	string
+1754657680.230727	CRPob92tBfx7Fptaxa	192.168.100.143	46144	192.168.100.119	445	0.000755	\\PIPE\\srvsvc	srvsvc	NetrShareEnum
+1754657693.094927	ChN7a71aUq0Wat1IA3	192.168.100.143	46298	192.168.100.119	445	0.000945	\\PIPE\\srvsvc	srvsvc	NetrShareEnum
+#close	2025-08-08-18-14-02
