@@ -6,6 +6,10 @@ This project simulates a **realistic insider threat scenario** in which an emplo
 
 All network activity was captured, analyzed, and reconstructed using **Zeek** and **NetworkMiner** to demonstrate how security analysts can **detect, investigate, and document** such incidents.
 
+
+![Overview]([path/to/image.png](https://github.com/atharimran728/Insider-Threat-s-Lateral-Movement-Simulation-Detection-Identification-using-NetworkMiner3.0-Zeek/blob/main/Overview.png
+) "Project map")
+
 ##  Objectives
 
 - Simulate **insider threat behavior** from reconnaissance to lateral movement.
